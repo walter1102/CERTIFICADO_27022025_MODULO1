@@ -1,0 +1,5 @@
+CREAR UNA CLASE: Coche
+                 Estudiante
+
+Con sus atributos respectivos
+Luego crear objetos y gestionar sus atributos con set y get
